@@ -20,6 +20,7 @@ from __future__ import division
 from __future__ import print_function
 
 import sys
+sys.path.insert(0,'/tensorflow-1.15.2/python2.7')
 from absl import flags
 import numpy as np
 
